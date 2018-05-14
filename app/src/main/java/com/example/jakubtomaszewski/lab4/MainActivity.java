@@ -3,7 +3,7 @@ package com.example.jakubtomaszewski.lab4;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-//sprawdzam poprawnosc dzialania commita
+//TODO
 
 
 public class MainActivity extends AppCompatActivity {

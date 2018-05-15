@@ -1,3 +1,5 @@
+package com.example.jakubtomaszewski.lab4;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;

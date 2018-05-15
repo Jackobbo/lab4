@@ -1,3 +1,5 @@
+package com.example.jakubtomaszewski.lab4;
+
 import java.io.Serializable;
 
 
